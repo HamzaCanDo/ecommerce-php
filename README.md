@@ -26,6 +26,7 @@ Password : user1
 
 InstaMojo Payment Gateway Settings
 ==================================
+to go admin section, go to localhost/project-name/admin
 1. Open Instamojo website and Register on it : https://www.instamojo.com or https://test.instamojo.com/
 2. After login goto this page : https://www.instamojo.com/integrations or https://test.instamojo.com/integrations and get API Key , Auth Token.
 3. Open this link : https://docs.instamojo.com/docs/create-a-request and click on "PHP" to get the code for PHP. 
